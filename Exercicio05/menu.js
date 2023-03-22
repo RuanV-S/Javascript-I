@@ -26,6 +26,10 @@ do {
         case '4':
             alert("Voce escolheu a opção " + opcao)
             break
-            }
-
+            
+        case '5':
+            alert("Voce escolhe encerrar...")
+        default:
+            alert("Opção inválida.")
+        }
 } while (opcao !== '5')

@@ -21,5 +21,10 @@ do {
             let remover = prompt('Valor que deseja remover')           
             carteira = carteira -  parseFloat(remover)
             break
+            case '3':
+            alert('Voce escolhe sair..')
+            default:
+                alert("Opção inválida.")
+            
     }
 } while (opcao !== '3')
