@@ -26,6 +26,6 @@ do {
             alert('Finalizando....')
             break
         default: 
-            alert('Opção invalida.')
+            alert('Opção Invalida')
     }
 } while (opcao !== '3')
