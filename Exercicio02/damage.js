@@ -33,7 +33,7 @@ if (secondPersonShield == 'não') {
         alert(
             fristPersonName + "\n Ataque: " + fristPersonPowerAttack + "\n\n" + 
             secondPersonName + "\n Vida: " + secondPersonLife + "\n Defesa: " + secondPersonDefense + "\n Escudo: " + secondPersonShield + 
-            "O " + fristPersonName + " não consegue causar dano em " + secondPersonName + " por causa de seu escudo"
+            "O " + fristPersonName + " não consegue causar dano em " + secondPersonName
 
         )
     }
