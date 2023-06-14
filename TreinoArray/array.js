@@ -43,3 +43,4 @@ for (let i = 0; i < arrayConcat.length; i++){
     const elemento = arrayConcat[i]
     console.log(elemento + " se encontra na posição " + i)
 }
+
